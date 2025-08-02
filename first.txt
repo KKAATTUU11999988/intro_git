@@ -6,3 +6,4 @@ git commit
 bbb
 
 git diff
+git commit --amend
