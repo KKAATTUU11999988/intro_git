@@ -11,3 +11,5 @@ git mearge(fast forward)
 コンフリクト
 
 pull request
+
+github flow
